@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/claudiotancredi/mlinapptests">
+  <a href="https://github.com/claudiotancredi/Machine-learning-in-applications">
     <img src="img/final_pred.png" alt="Logo" width="250" height="250">
   </a>
 
@@ -31,7 +31,7 @@
   <p align="center">
     A cemented carbide insert wear state classification project using instance segmentation for predictive maintenance
     <br />
-    <a href="https://github.com/MLinApp-polito/mla-prj-04-dc3/tree/main/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/claudiotancredi/Machine-learning-in-applications/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
