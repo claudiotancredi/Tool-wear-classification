@@ -128,7 +128,7 @@ Some generalization tests have been conducted in *Stage_1_transfer_learning* + *
 
 <!-- CONTRIBUTING -->
 ## Contributors
-The work was built by [Claudio Tancredi](https://github.com/claudiotancredi/), [Francesca Russo](https://github.com/francesc), [Matteo Quarta](https://github.com/coccocarmiano/), [Alessandro Versace](https://github.com/AleVersace).
+The work was built by [Claudio Tancredi](https://github.com/claudiotancredi/), [Francesca Russo](https://github.com/frarus), [Matteo Quarta](https://github.com/coccocarmiano/), [Alessandro Versace](https://github.com/AleVersace).
 
 
 
