@@ -87,7 +87,7 @@ Monitoring tools is a fundamental process in modern factories because, by substi
 Two different kind of architectures with some variants that use different mask annotations (in COCO format) are available:
 * The baseline model works by predicting masks for instance segmentation with the respective associated label. The insert state is then predicted matching the label assigned to the mask with the largest area.
 * The two-stage pipeline, instead, uses the first stage to predict wear masks with a single possible class (WEAR); then, for each sample, the mask with the largest area is passed down as input to the second stage that performs the wear state classification. If no mask is predicted in the first stage, the sample is automatically classified as belonging to the OK class.
-More info can be found in the [report](https://github.com/MLinApp-polito/mla-prj-04-dc3/blob/main/docs/04_DC3_REPORT.pdf).
+More info can be found in the [report](https://github.com/claudiotancredi/Machine-learning-in-applications/blob/master/docs/04_DC3_REPORT.pdf).
 
 ### Repo Structure
 
